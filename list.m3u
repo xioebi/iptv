@@ -1,66 +1,33 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",live
-http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",动漫放映院
-http://tx2play1.douyucdn.cn/live/9551925rmjG6j2iv.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",电影
-http://tx2play1.douyucdn.cn/live/9536850r11gM5wDI.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",恐怖电影
-http://tx2play1.douyucdn.cn/live/310926r1GttccHs5.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",欧美科幻
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",周星驰
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",林正英
-http://tx2play1.douyucdn.cn/live/218859rfa6x5W5AH.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",高分影视
-http://tx2play1.douyucdn.cn/live/1735337rtAqAMXpo.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",欧美日韩
-http://tx2play1.douyucdn.cn/live/36337rJCywNgfDtJ.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",动作灾难
-http://tx2play1.douyucdn.cn/live/248753rsLx79oMhp.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",邵氏影院
-http://tx2play1.douyucdn.cn/live/4246519rZVyc9ust.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",香港赌片
-http://tx2play1.douyucdn.cn/live/315457rkHZoBCIGx.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K HDR
-http://tx2play1.douyucdn.cn/live/9249162rr1z4aQvI.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",国产青春
-http://tx2play1.douyucdn.cn/live/5423rygwaMqtsQ0P.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",韩国车展
-http://tx2play1.douyucdn.cn/live/1360303r6PupRIgv.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",漫威 DC
-http://tx2play1.douyucdn.cn/live/2083382r3YUkZAYM.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",漫威DC
-http://tx2play1.douyucdn.cn/live/8107217rA1pbUjQM.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",经典电影
-http://tx2play1.douyucdn.cn/live/5176879rv1XwLi4a.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",秋叶圓
-http://tx2play1.douyucdn.cn/live/8756805rt4V64Cgv.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",詹姆士·邦德
-http://tx2play1.douyucdn.cn/live/9292499roGBhN4FJ.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",烧脑影视
-http://tx2play1.douyucdn.cn/live/5802446rYOirMez3.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",经典剧集
-http://tx2play1.douyucdn.cn/live/8014575rAGJccdy5.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",高分恐怖
-http://tx2play1.douyucdn.cn/live/642988rX8KHOalP6.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",科幻电影
-http://tx2play1.douyucdn.cn/live/553950r9raiXMUry.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",港片回味
-http://tx2play1.douyucdn.cn/live/9497031rcvF7LCqH.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",下饭神剧
-http://tx2play1.douyucdn.cn/live/276200rKDX8VqOrW.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",功夫港片
-http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",乡村爱情
-http://tx2play1.douyucdn.cn/live/9356342rgPCGol5U.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",纪录片
-http://tx2play1.douyucdn.cn/live/1381309rDDOWFnLV.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",最强曲库
-http://tx2play1.douyucdn.cn/live/571101r7vQFg42AZ.flv?uuid=
-#EXTINF:0 tvg-id="ext" group-title="Channels",德云相声
-https://txdirect.hls.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1_2000.m3u8?wsSecret=86052b9baf62de33d83962fa9aea4847&wsTime=60156284&u=0&seqid=16119278133075618&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
-#EXTINF:0 tvg-id="ext" group-title="Channels",恐怖片放映厅
-https://al.hls.huya.com/src/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8?wsSecret=2ea2df1f256b548da55064399df75a7a&wsTime=60156314&u=0&seqid=16119279570051610&ctype=tars_mobile&txyp=o%3Aq5%3B&fs=bgct&t=103
-
+#NAME Вип ТВ
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:动漫放映院,http%3a//tx2play1.douyucdn.cn/live/9551925rmjG6j2iv.flv?uuid=:港式恐怖,http%3a//tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#DESCRIPTION 港式恐怖,http%3a//tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#SERVICE 4097:0:1:2:0:0:0:0:0:0:恐怖电影,http%3a//tx2play1.douyucdn.cn/live/310926r1GttccHs5.flv?uuid=:电影,http%3a//tx2play1.douyucdn.cn/live/9536850r11gM5wDI.flv?uuid=
+#DESCRIPTION 电影,http%3a//tx2play1.douyucdn.cn/live/9536850r11gM5wDI.flv?uuid=
+#SERVICE 4097:0:1:3:0:0:0:0:0:0:周星驰,http%3a//tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=:欧美科幻,http%3a//tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+#DESCRIPTION 欧美科幻,http%3a//tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+#SERVICE 4097:0:1:4:0:0:0:0:0:0:高分影视,http%3a//tx2play1.douyucdn.cn/live/1735337rtAqAMXpo.flv?uuid=:林正英,http%3a//tx2play1.douyucdn.cn/live/218859rfa6x5W5AH.flv?uuid=
+#DESCRIPTION 林正英,http%3a//tx2play1.douyucdn.cn/live/218859rfa6x5W5AH.flv?uuid=
+#SERVICE 4097:0:1:5:0:0:0:0:0:0:动作灾难,http%3a//tx2play1.douyucdn.cn/live/248753rsLx79oMhp.flv?uuid=:欧美日韩,http%3a//tx2play1.douyucdn.cn/live/36337rJCywNgfDtJ.flv?uuid=
+#DESCRIPTION 欧美日韩,http%3a//tx2play1.douyucdn.cn/live/36337rJCywNgfDtJ.flv?uuid=
+#SERVICE 4097:0:1:6:0:0:0:0:0:0:香港赌片,http%3a//tx2play1.douyucdn.cn/live/315457rkHZoBCIGx.flv?uuid=:邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rZVyc9ust.flv?uuid=
+#DESCRIPTION 邵氏影院,http://tx2play1.douyucdn.cn/live/4246519rZVyc9ust.flv?uuid=
+#SERVICE 4097:0:1:7:0:0:0:0:0:0:国产青春,http://tx2play1.douyucdn.cn/live/5423rygwaMqtsQ0P.flv?uuid=:4K HDR,http://tx2play1.douyucdn.cn/live/9249162rr1z4aQvI.flv?uuid=
+#DESCRIPTION 4K HDR,http://tx2play1.douyucdn.cn/live/9249162rr1z4aQvI.flv?uuid=
+#SERVICE 4097:0:1:8:0:0:0:0:0:0:漫威 DC,http://tx2play1.douyucdn.cn/live/2083382r3YUkZAYM.flv?uuid=:韩国车展,http://tx2play1.douyucdn.cn/live/1360303r6PupRIgv.flv?uuid=
+#DESCRIPTION 韩国车展,http://tx2play1.douyucdn.cn/live/1360303r6PupRIgv.flv?uuid=
+#SERVICE 4097:0:1:9:0:0:0:0:0:0:经典电影,http://tx2play1.douyucdn.cn/live/5176879rv1XwLi4a.flv?uuid=:漫威DC,http://tx2play1.douyucdn.cn/live/8107217rA1pbUjQM.flv?uuid=
+#DESCRIPTION 漫威DC,http://tx2play1.douyucdn.cn/live/8107217rA1pbUjQM.flv?uuid=
+#SERVICE 4097:0:1:10:0:0:0:0:0:0:詹姆士·邦德,http://tx2play1.douyucdn.cn/live/9292499roGBhN4FJ.flv?uuid=:秋叶圓,http://tx2play1.douyucdn.cn/live/8756805rt4V64Cgv.flv?uuid=
+#DESCRIPTION 秋叶圓,http://tx2play1.douyucdn.cn/live/8756805rt4V64Cgv.flv?uuid=
+#SERVICE 4097:0:1:11:0:0:0:0:0:0:经典剧集,http://tx2play1.douyucdn.cn/live/8014575rAGJccdy5.flv?uuid=:烧脑影视,http://tx2play1.douyucdn.cn/live/5802446rYOirMez3.flv?uuid=
+#DESCRIPTION 烧脑影视,http://tx2play1.douyucdn.cn/live/5802446rYOirMez3.flv?uuid=
+#SERVICE 4097:0:1:12:0:0:0:0:0:0:科幻电影,http://tx2play1.douyucdn.cn/live/553950r9raiXMUry.flv?uuid=:高分恐怖,http://tx2play1.douyucdn.cn/live/642988rX8KHOalP6.flv?uuid=
+#DESCRIPTION 高分恐怖,http://tx2play1.douyucdn.cn/live/642988rX8KHOalP6.flv?uuid=
+#SERVICE 4097:0:1:13:0:0:0:0:0:0:下饭神剧,http://tx2play1.douyucdn.cn/live/276200rKDX8VqOrW.flv?uuid=:港片回味,http://tx2play1.douyucdn.cn/live/9497031rcvF7LCqH.flv?uuid=
+#DESCRIPTION 港片回味,http://tx2play1.douyucdn.cn/live/9497031rcvF7LCqH.flv?uuid=
+#SERVICE 4097:0:1:14:0:0:0:0:0:0:乡村爱情,http://tx2play1.douyucdn.cn/live/9356342rgPCGol5U.flv?uuid=:功夫港片,http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#DESCRIPTION 功夫港片,http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#SERVICE 4097:0:1:15:0:0:0:0:0:0:最强曲库,http://tx2play1.douyucdn.cn/live/571101r7vQFg42AZ.flv?uuid=:纪录片,http://tx2play1.douyucdn.cn/live/1381309rDDOWFnLV.flv?uuid=
+#DESCRIPTION 纪录片,http://tx2play1.douyucdn.cn/live/1381309rDDOWFnLV.flv?uuid=
+#SERVICE 4097:0:1:16:0:0:0:0:0:0:恐怖片放映厅,https://al.hls.huya.com/src/1099531729211-1099531729211-86335005927669760-2199063581878-10057-A-0-1_2000.m3u8?wsSecret=2ea2df1f256b548da55064399df75a7a&wsTime=60156314&u=0&seqid=16119279570051610&ctype=tars_mobile&txyp=o%3Aq5%3B&fs=bgct&t=103:德云相声,https://txdirect.hls.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1_2000.m3u8?wsSecret=86052b9baf62de33d83962fa9aea4847&wsTime=60156284&u=0&seqid=16119278133075618&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
+#DESCRIPTION 德云相声,https://txdirect.hls.huya.com/src/64310431-64310431-276211197936664576-128744318-10057-A-0-1_2000.m3u8?wsSecret=86052b9baf62de33d83962fa9aea4847&wsTime=60156284&u=0&seqid=16119278133075618&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=103
