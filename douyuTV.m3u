@@ -1,4 +1,5 @@
-#EXTM3U#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="DouyuTV",【特辑】精彩大片，欢迎品鉴 http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs?uuid=
+#EXTM3U
+#EXTINF:-1 tvg-id=1 tvg-name= tvg-logo= group-title="DouyuTV",【特辑】精彩大片，欢迎品鉴 http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs?uuid=
 #EXTINF:-1 tvg-id=2 tvg-name= tvg-logo= group-title="DouyuTV",【牛叔】N分钟带你看完大片 http://tx2play1.douyucdn.cn/live/2758565rmy0F9oQz.xs?uuid=
 #EXTINF:-1 tvg-id=3 tvg-name= tvg-logo= group-title="DouyuTV",【万合天宜】王大锤情怀上线 http://tx2play1.douyucdn.cn/live/9220456r3ZdVVaFO.xs?uuid=
 #EXTINF:-1 tvg-id=4 tvg-name= tvg-logo= group-title="DouyuTV",【宇哥】极限惊悚，无限反转 http://tx2play1.douyucdn.cn/live/8651489riiEB1Zkt.xs?uuid=
